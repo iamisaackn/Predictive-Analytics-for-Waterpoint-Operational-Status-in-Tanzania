@@ -68,3 +68,11 @@ To effectively communicate the findings and insights from the analysis:
 The analysis successfully identified key factors influencing the operational status of waterpoints in Tanzania, including user quality, source type, and waterpoint age. The predictive model demonstrated strong performance, providing actionable insights for maintenance and resource allocation. 
 
 Future research should focus on longitudinal studies to track changes in waterpoint functionality, investigate user engagement strategies, and explore the scalability of the developed model to other regions. By continuously refining the model and incorporating advanced analytical techniques, we can further enhance predictive capabilities and contribute to improved waterpoint management. 
+
+## Links
+
+- [GitHub](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/notebook.pdf)
+- [Notebook](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/student.ipynb)
+- [Notebook PDF](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/notebook.pdf)
+- [README](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/README.md)
+- [Source of dataset](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
