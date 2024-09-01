@@ -71,7 +71,7 @@ Future research should focus on longitudinal studies to track changes in waterpo
 
 ## Links
 
-- [GitHub](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/notebook.pdf)
+- [GitHub](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania)
 - [Notebook](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/student.ipynb)
 - [Notebook PDF](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/notebook.pdf)
 - [Presentation PDF](https://github.com/iamisaackn/Predictive-Analytics-for-Waterpoint-Operational-Status-in-Tanzania/blob/main/Presentation.pdf)
